@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2146524956",
+    "project_id": "ashri-73baf",
+    "storage_bucket": "ashri-73baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2146524956:android:f352541baad33999b3a4d9",
+        "android_client_info": {
+          "package_name": "com.example.ashri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2146524956-2ad9ran9bebncmtfq5eejsge4cd1jis3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashri",
+            "certificate_hash": "9dc01ccf13d7d80578cbcf8a303c8a9718735c9a"
+          }
+        },
+        {
+          "client_id": "2146524956-oc5e7vc55p3sjj2m7f7sif9gj95lhous.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfL_dpwNu0s-G8JrjsTgoQ_STCI4JwwlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2146524956-oc5e7vc55p3sjj2m7f7sif9gj95lhous.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2146524956-u12qbptji1pp52ihp96b40t27cu5bt3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": ".com.ashri.ashri",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
